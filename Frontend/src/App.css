@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+
+.search-container {
+  
+}
+
+input[type="text"] {
+  padding-right: 40px; /* Add space for the search icon */
+}
+
+button{
+  top: 0;
+  right: 0;
+  padding: 8px 10px;
+  background-color: #ddd;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-body h3 {
+  margin-top: 0;
+}
+
+.card-body p {
+  margin-bottom: 20px;
+}
+
+.button {
+  display: inline-block;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+.fa {
+  font-size: 20px;
+}
+
